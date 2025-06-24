@@ -3,8 +3,8 @@
 # NLP Lab 2: Sentiment Analysis
 
 **Authors:**  
-– Nikolaos Katsaidonis (03121868)  
-– Georgios Tzamouranis (03121141)  
+– Nikolaos Katsaidonis  
+– Georgios Tzamouranis 
 
 ---
 
