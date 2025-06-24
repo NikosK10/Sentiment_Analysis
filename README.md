@@ -22,4 +22,6 @@ Key goals:
 
 ---
 
+This project created as part of the course "Voice and Natural Language Processing" at School of Electrical and Computer Engineering, NTUA and the aim of this work is NOT to present it as my personal research but as my approach to the problems given.
 
+Special thanks to my fellow student, Georgios Tzamouranis (https://github.com/giorgostzamouranis) , with whom I collaborated for the implementation of this project.
