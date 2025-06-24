@@ -1,6 +1,6 @@
 # Sentiment_Analysis
 
-# Greek NLP Lab 2: Sentiment Analysis
+# NLP Lab 2: Sentiment Analysis
 
 **Authors:**  
 – Nikolaos Katsaidonis (03121868)  
